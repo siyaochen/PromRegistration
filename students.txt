@@ -1,0 +1,26 @@
+#STUDENTS
+#name        ID        email        diet requirements        friends
+Bernadette B|10000001|Bernadette@gmail.com|N/A|10000002 X 10000006 X 10000007 X 10000012
+Carol C|10000002|Carol@gmail.com|Vegetarian|10000001 X 10000007 X 10000008
+Colin C|10000003|Colin@gmail.com|N/A|10000019 X 10000023 X 10000021 X 10000014
+David D|10000004|David@gmail.com|N/A|10000007
+Elizabeth E|10000005|Elizabeth@gmail.com|N/A|10000001 X 10000008
+Edward F|10000006|Edward@gmail.com|Vegetarian|10000024 X 10000023
+Frank F|10000007|Frank@gmail.com|No carrots|10000024 X 10000023
+Gavin G|10000008|Gavin@gmail.com|N/A|10000024 X 10000023
+Harry H|10000009|Harry@gmail.com|N/A|10000010 X 10000011 X 10000012
+Isaac I|10000010|Isaac@gmail.com|N/A|10000009 X 10000012 X 10000011
+Jasmine J|10000011|Jasmine@gmail.com|N/A|10000010 X 10000009 X 10000012
+Kylie K|10000012|Kylie@gmail.com|Vegetarian|10000011 X 10000010 X 10000009
+Keith K|10000013|Keith@gmail.com|N/A|10000014
+Lucas L|10000014|Lucas@gmail.com|N/A|10000013
+Maria M|10000015|Maria@gmail.com|N/A|10000003 X 10000001 X 10000007
+Nicholas N|10000016|Nicholas@gmail.com|N/A|10000001
+Oliver O|10000017|Oliver@gmail.com|N/A|10000023
+Peter P|10000018|Peter@gmail.com|fish only|10000013
+Ryan R|10000019|Ryan@gmail.com|N/A|10000024 X 10000022 X 10000021 X 10000020
+Sebastian S|10000020|Sebastian@gmail.com|N/A|10000024 X 10000022 X 10000021 X 10000019
+Sonia S|10000021|Sonia@gmail.com|N/A|10000024 X 10000022 X 10000020 X 10000019
+Trevor T|10000022|Trevor@gmail.com|N/A|10000024 X 10000021 X 10000020 X 10000019
+Vanessa V|10000023|Vanessa@gmail.com|N/A|10000017
+Warren W|10000024|Warren@gmail.com|N/A|10000022 X 10000021 X 10000020 X 10000019

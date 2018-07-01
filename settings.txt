@@ -1,0 +1,10 @@
+#TICKET SYSTEM SETTINGS
+#
+# max number of tickets
+100
+# number of tables available
+25
+# max number of people per table
+5
+# length of a student ID
+8
