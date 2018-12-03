@@ -1,4 +1,4 @@
-# PromRegistration
+# prom-registration
 
 Prom registration software written in Java.
 
